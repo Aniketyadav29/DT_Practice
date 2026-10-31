@@ -1,4 +1,5 @@
 # DT_Practice
 
 
-this repository is dedicated to my Data Science course practice .
+This repository is dedicated to my Data Science course practice .
+Here i upload my data science practice set .
